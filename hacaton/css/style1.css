@@ -1,0 +1,88 @@
+#maen{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-image: url('../img/Rectangle\ 43.jpg');
+  width: 100%;
+  height: 800px;
+}
+.container{
+    width: 1920px;
+    height: 1080px;
+    border-radius: auto;
+}
+.navbar{
+    
+    width: 1920px;
+    height: 150px;
+    background:  #df8abe;
+    position: sticky;
+    width: 100%;
+    top: 0;
+
+    
+    margin-top: auto;
+
+}
+.image1{
+    position: absolute;
+    display: flex;
+    width: 1920px;
+    height: 1080px;
+}
+.image2{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 423px;
+    margin-top: 252px;
+}
+.image3{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1015px;
+    margin-top: 516px;
+}
+.image4{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 360px;
+    margin-top: 72px ;
+}
+.image5{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 504px;
+    margin-top: 72px; 
+}
+.image6{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 615px;
+    margin-top: 72px;
+}
+.image7{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1336px;
+    margin-top: 72px;
+}
+.image8{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1376px;
+    margin-top: 72px;
+}
